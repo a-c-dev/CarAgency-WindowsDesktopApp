@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\CarAgency-WindowsDesktopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|c:\\dev\\caragency-windowsdesktopapp\\entity\\caragencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|solutionrelative:entity\\caragencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|c:\\dev\\caragency-windowsdesktopapp\\entity\\model\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|solutionrelative:entity\\model\\deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|c:\\dev\\caragency-windowsdesktopapp\\entity\\model\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|solutionrelative:entity\\model\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|c:\\dev\\caragency-windowsdesktopapp\\entity\\model\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD19F5B6-1BDC-4B88-A1FD-10DC369679D4}|CarAgency-WindowsDesktopApp.csproj|solutionrelative:entity\\model\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deal.cs",
+              "DocumentMoniker": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\Model\\Deal.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Deal.cs",
+              "ToolTip": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\Model\\Deal.cs",
+              "RelativeToolTip": "Entity\\Model\\Deal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:39:01.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\Model\\CarModel.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\CarModel.cs",
+              "ToolTip": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\Model\\CarModel.cs",
+              "RelativeToolTip": "Entity\\Model\\CarModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:28:30.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarStatus.cs",
+              "DocumentMoniker": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\Model\\CarStatus.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\CarStatus.cs",
+              "ToolTip": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\Model\\CarStatus.cs",
+              "RelativeToolTip": "Entity\\Model\\CarStatus.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:28:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarAgencyDbContext.cs",
+              "DocumentMoniker": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\CarAgencyDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\CarAgencyDbContext.cs",
+              "ToolTip": "C:\\dev\\CarAgency-WindowsDesktopApp\\Entity\\CarAgencyDbContext.cs",
+              "RelativeToolTip": "Entity\\CarAgencyDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:18:21.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
